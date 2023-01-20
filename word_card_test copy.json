@@ -1,0 +1,29 @@
+[
+    {
+        "word": "abdicate",
+        "definition": "to step down from a position of power or responsibility",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "abate",
+        "definition": "to subside; to reduce",
+        "sample_sentences": "",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "abash",
+        "definition": "to make ashamed; to embarrass",
+        "sample_sentences": "",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    }
+]

@@ -1,0 +1,11 @@
+word|definition|sample_sentences|check_spell|check_definition|user_input_spell|user_input_definition
+caricature|a portrait or description that is purposely distorted or exaggerated, often to prove some point about its subject|Khoa sat for a caricature at the end of the marathon, but wasn't pleased with the result: the portrait exaggerated his already dominant acne.|fail|fail||
+castigate|to criticize severely; to chastise|Jose's mother-in-law castigated him for forgetting to pick her up at the airport.|fail|fail||
+catalyst|in chemistry, something that changes the rate of a chemical reaction without itself being changed; anyone or anything that makes something happen without being directly involved in it|When the mad scientist dropped a few grains of the catalyst into his test tube, the bubbling liquid began to boil furiously.|fail|fail||
+categorical|unconditionsl; absolute| A categorical denial is one without exceptions - it covers every category.|fail|fail||
+catharsis|purification that brings emotional relief or renewal| To someone with psychological problems, talking to a psychiatrist can lead to a catharsis. A catharsis is a sometimes traumatic event after which one feels better.|fail|fail||
+abysmal|extremely hopeless or wretched; bottomless||fail|fail||
+accolade|an award; an honor||fail|fail||
+abject|hopeless; extremely sad and servile||fail|fail||
+abnegate|to deny oneself things||fail|fail||
+DEGENERATE|to break down; to deteriorate|The discussion quickly degenerated into an argument.|fail|fail||

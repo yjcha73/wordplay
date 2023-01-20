@@ -1,0 +1,3197 @@
+[
+    {
+        "word": "abash",
+        "definition": "to make ashamed; to embarrass",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "abash",
+        "user_input_definition": "to make embarass"
+    },
+    {
+        "word": "abate",
+        "definition": "to subside; to reduce",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "abate",
+        "user_input_definition": "to reduce"
+    },
+    {
+        "word": "abdicate",
+        "definition": "to step down from a position of power or responsibility",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "aberration",
+        "definition": "something not typical; a deviation from the standard",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": "abberation",
+        "user_input_definition": "a deviation from the standard"
+    },
+    {
+        "word": "abhor",
+        "definition": " to hate very very much; to detest",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "abject",
+        "definition": " hopeless; extremely sad and servile; defeated",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "abnegate",
+        "definition": " to deny oneself things; to reject; to renounce",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "abortive",
+        "definition": " unsuccessful",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "abridge",
+        "definition": " to shorten; to condense",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "absolute",
+        "definition": " total; unlimited",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "absolute",
+        "user_input_definition": "total"
+    },
+    {
+        "word": "absolve",
+        "definition": " to forgive or free from blame; to free from sin; to free from an obligation",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "abstinent",
+        "definition": " abstaining; voluntarily not doing something, especially something pleasant that is bad for you or has a bad reputation",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "abstract",
+        "definition": " theoretical; impersonal",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "abstruse",
+        "definition": " hard to understand",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "abstruse",
+        "user_input_definition": "hard to understand"
+    },
+    {
+        "word": "abysmal",
+        "definition": " extremely hopeless or wretched; bottomless",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "abysmal",
+        "user_input_definition": "wretched; bottomless"
+    },
+    {
+        "word": "accolade",
+        "definition": " an award; an honor",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "accost",
+        "definition": " to approach and speak to someone aggressively",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "acerbic",
+        "definition": " sour; severe; like acid in temper, mood or tone",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "acquiesce",
+        "definition": " to comply 1ively; to accept; to assent; to agree",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "acquiesce",
+        "user_input_definition": "tto comply 1ively"
+    },
+    {
+        "word": "acrid",
+        "definition": " harshly pungent; bitter",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "acrimonious",
+        "definition": " full of spite; bitter; nasty",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "acumen",
+        "definition": " keenness of judgement; mental sharpness",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "acute",
+        "definition": " sharp; shrewd",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "acute",
+        "user_input_definition": "sharp"
+    },
+    {
+        "word": "adamant",
+        "definition": " stubborn; unyielding; copletely inflexible",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "address",
+        "definition": " too seak to; to direct one's attention to",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "adherent",
+        "definition": " follower; supporter; believer",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "admonish",
+        "definition": " to scold gently; to warn",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "admonish",
+        "user_input_definition": "to warn"
+    },
+    {
+        "word": "adroit",
+        "definition": " skillful; deterous; clever; shrewd; socially at ease",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "adulation",
+        "definition": " wild or excessive admiration; flattery",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "adulterate",
+        "definition": " to contaminate; to make impure",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "adverse",
+        "definition": " unfavorable; antagonistic",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "aesthetic",
+        "definition": " having to do with artistic beauty; artistic",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "aesthetic",
+        "user_input_definition": "artistic"
+    },
+    {
+        "word": "affable",
+        "definition": " easy to talk to; friendly",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "affable",
+        "user_input_definition": "easy to taalk to"
+    },
+    {
+        "word": "affectation",
+        "definition": " unnatural or artificial behavior, usually intended to impress",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "affinity",
+        "definition": " sympathy; attraction; kinship; similarity",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "affluent",
+        "definition": " rich; prosperous",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "affluent",
+        "user_input_definition": "rich; prosperous"
+    },
+    {
+        "word": "agenda",
+        "definition": " program; the things to be done",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "agenda",
+        "user_input_definition": "program"
+    },
+    {
+        "word": "aggregate",
+        "definition": " sum total; a collection of separate things mixed together",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "agnostic",
+        "definition": " one who believes that existence of a god can be neither proven nor disproven",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "agrarian",
+        "definition": " relating to land; relating to the management or farming of land",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "alacrity",
+        "definition": " cheerful eagerness or readiness to respond",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "allege",
+        "definition": " to assert without proof",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "alleviate",
+        "definition": " to relieve, usually temporarily or incompletely; to make bearable; to lessen",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "alleviate",
+        "user_input_definition": "to relieve"
+    },
+    {
+        "word": "allocate",
+        "definition": " to distribute; to assign; to allot",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "alloy",
+        "definition": " a combination of two or more things, usually metals",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "alloy",
+        "user_input_definition": "a combination of two or more metals"
+    },
+    {
+        "word": "ameliorate",
+        "definition": " to make better or more tolerance",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": "amelioratet",
+        "user_input_definition": "to maake better"
+    },
+    {
+        "word": "amenable",
+        "definition": " obedient; will to give in to the wishes of another; agreeable",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": "aninable",
+        "user_input_definition": null
+    },
+    {
+        "word": "amenity",
+        "definition": " pleasantness; attractive or comfortable feature",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "amenity",
+        "user_input_definition": "a comfortable and attractive feature"
+    },
+    {
+        "word": "amiable",
+        "definition": " friendly; agreeable",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "amiable",
+        "user_input_definition": "obedient"
+    },
+    {
+        "word": "amnesty",
+        "definition": " an official pardon for a group of people who have violated a law or policy",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "amnesty",
+        "user_input_definition": "an official pardon for ppl who hhave broken a law or policy"
+    },
+    {
+        "word": "amoral",
+        "definition": " lacking a sense of right and wrong; neither good nor bad, neither moral nor immoral; without moral feelings",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "amoral",
+        "user_input_definition": "neither moral nor immoral"
+    },
+    {
+        "word": "amorous",
+        "definition": " feeling loving, especially in a sexual sense; in love; relating to love",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "amorous",
+        "user_input_definition": "bloblike"
+    },
+    {
+        "word": "amorphous",
+        "definition": " shapeless; without a regular or stable shape; bloblike",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "amorphous",
+        "user_input_definition": "bloblike"
+    },
+    {
+        "word": "anachronism",
+        "definition": " something out of place in time or history; an incongruity",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "analogy",
+        "definition": " a comparison of one thing to another; similarity",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "anarchy",
+        "definition": " absense of government or control; lawlessness; disorder",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "anecdote",
+        "definition": " a short account of a humorous or revealing incident",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "anguish",
+        "definition": " agonizing physical or mental pain",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "animosity",
+        "definition": " resentment; hostility; ill will",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "anomaly",
+        "definition": " an aberration; an irregularity; a deviation",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "anomaly",
+        "user_input_definition": "something that is not normal"
+    },
+    {
+        "word": "antecedent",
+        "definition": " someone or something that went before; something that provides a model for something that came after it",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "antipathy",
+        "definition": " firm dislike",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "antithesis",
+        "definition": " a direct opposite",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "apartheid",
+        "definition": " the former policy of racial segregation and oppression in the Republic of South Africa",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "apartheid",
+        "user_input_definition": "the former policy of racial segregation and opppression in south africa"
+    },
+    {
+        "word": "apathy",
+        "definition": " lack of interest; lack of feeling",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "aphorism",
+        "definition": " a brief, often witty saying; a proverb",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "aphorism",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "apocalypse",
+        "definition": " a prophetic revelation, especially one concerning the end of the world",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "apocryphal",
+        "definition": "  of dubious authenticity; ficticious; spurious",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "apotheosis",
+        "definition": " elevation to divine status; the perfect example of something",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "appease",
+        "definition": " to soothe; to pacify by giving in to",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "appreciate",
+        "definition": " to increase in value",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "appreciate",
+        "user_input_definition": "to increase in value"
+    },
+    {
+        "word": "apprehensive",
+        "definition": " worried; anxious",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "approbation",
+        "definition": " approval; praise",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "appropriate",
+        "definition": " to take without permission; to set aside for a particular use",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "aptitude",
+        "definition": "  capacity for learning; natural ability",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "arbiter",
+        "definition": " one who decides; a judge",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "arbiter",
+        "user_input_definition": "judge"
+    },
+    {
+        "word": "arbitrary",
+        "definition": " random; capricious",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "arcane",
+        "definition": " mysterious; known only to a select few",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "archaic",
+        "definition": " extremely old; ancient; outdated",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "archaic",
+        "user_input_definition": "ancient"
+    },
+    {
+        "word": "archetype",
+        "definition": " an original model or pattern",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "ardent",
+        "definition": " 1ionate; enthusiastic",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "ardent",
+        "user_input_definition": "1ionate"
+    },
+    {
+        "word": "arduous",
+        "definition": " hard; difficult",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "arduous",
+        "user_input_definition": "hard"
+    },
+    {
+        "word": "aristocratic",
+        "definition": " of noble birth; snobbish",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "aristocratic",
+        "user_input_definition": "noble"
+    },
+    {
+        "word": "artful",
+        "definition": " crafty; wily; sly",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "artful",
+        "user_input_definition": "trickeryy"
+    },
+    {
+        "word": "artifice",
+        "definition": " a clever trick; cunning",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "ascendancy",
+        "definition": " supremacy; domination",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "ascetic",
+        "definition": " hermitlike; practicing self-denial",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "assiduous",
+        "definition": " hardworking; busy; quite diligent",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "assiduous",
+        "user_input_definition": "eager"
+    },
+    {
+        "word": "assimilate",
+        "definition": " to take in; to absorb; to learn throughly",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "assuage",
+        "definition": " to soothe; to pacify; to ease the pain of; to relieve",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "astute",
+        "definition": " shrewd; keen in judgement",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "atheist",
+        "definition": " one who does not believe in the existence of any god or divine being",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "attrition",
+        "definition": " gradual wearing away, weakening, or loss; a natural or expected decrease in number or size",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "attrition",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "audacity",
+        "definition": " boldness; reckless daring; impertinence",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "audacity",
+        "user_input_definition": "boldness"
+    },
+    {
+        "word": "augment",
+        "definition": " to make bigger; to add to; to increase",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "auspicious",
+        "definition": " favorable; promising; pointing to a good result",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "auspicious",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "austere",
+        "definition": " unadorned; stern; forbidding; without excess",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "autocratic",
+        "definition": " ruling with absolute authority; extremely bossy",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "autocratic",
+        "user_input_definition": "bbossy"
+    },
+    {
+        "word": "autonomous",
+        "definition": " acting independently",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "avarice",
+        "definition": " greed; excessive love of riches",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "avow",
+        "definition": " to claim; to declare boldly; to admit",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": "devour",
+        "user_input_definition": "admit"
+    },
+    {
+        "word": "avuncular",
+        "definition": " like an uncle, especially a nice uncle",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "awry",
+        "definition": " off course; twisted to one side",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "axiom",
+        "definition": " a self-evident rule or truth; a widely accepted saying",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "axiom",
+        "user_input_definition": "a self-evident saying"
+    },
+    {
+        "word": "banal",
+        "definition": " unoriginal; ordinary",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "bane",
+        "definition": " poison; torment; cause of harm",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "bastion",
+        "definition": " stronghold; fortress; fortified place",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "beget",
+        "definition": " to give birth to; to create; to lead to; to cause",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "beget",
+        "user_input_definition": "to create"
+    },
+    {
+        "word": "belabor",
+        "definition": " to go over repeatedly or to an absurd extent",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "belabor",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "beleaguer",
+        "definition": " to surround; to besiege; to harass",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": "beleagure",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "belie",
+        "definition": " to give a false impression of; to contradict",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "belittle",
+        "definition": " to make to seem little; to put someone down",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": "beliter",
+        "user_input_definition": null
+    },
+    {
+        "word": "belligerent",
+        "definition": " combative; quarrelsome; waging war",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "bemused",
+        "definition": " confused; bewildered",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "bemused",
+        "user_input_definition": "bewildered;confused"
+    },
+    {
+        "word": "benefactor",
+        "definition": " one who provides help, especially in the form of a gift or donation",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "benefactor",
+        "user_input_definition": "someone who give donations"
+    },
+    {
+        "word": "benevolent",
+        "definition": " generous; kind; doing good deeds",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "benevolent",
+        "user_input_definition": "someone who recieves the benefit"
+    },
+    {
+        "word": "benign",
+        "definition": " gentle; not harmful; kind; mild",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "bequest",
+        "definition": " something left to someone in a will",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "bequest",
+        "user_input_definition": "idk; "
+    },
+    {
+        "word": "bereaved",
+        "definition": " deprived or left desolate, especially through death",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "beset",
+        "definition": " to harass; to surround",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "blasphemy",
+        "definition": " irreverence; an insult towards something held sacred; profanity",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "blatant",
+        "definition": " unpleasantly or offensively noisy; glaring",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "blight",
+        "definition": " disease in plants; anything that injures or destroys",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "blithe",
+        "definition": " carefree; cheerful",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "blithe",
+        "user_input_definition": "a diesease in plants"
+    },
+    {
+        "word": "bourgeois",
+        "definition": " middle class, usually in a pejorative sense; boringly conventional",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": "idk",
+        "user_input_definition": "charmingly rural"
+    },
+    {
+        "word": "bovine",
+        "definition": " cow related; cowlike",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "bovine",
+        "user_input_definition": "cowlike, relating to cows"
+    },
+    {
+        "word": "brevity",
+        "definition": " briefness",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "brevity",
+        "user_input_definition": "briefness"
+    },
+    {
+        "word": "broach",
+        "definition": " to open up a subject for discussion, often a delicate subject",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "bucolic",
+        "definition": " charmingly rural; rustic; countrylike",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "bureaucracy",
+        "definition": " a system of government administration consisting of numerous bureaus or offices, especially one run according to inflexible and inefficient rules; any large administrative system characterized by inefficiency, lots of rules, and red tape",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "bureaucracy",
+        "user_input_definition": "a system of gov administration consisting of many bureaus"
+    },
+    {
+        "word": "burgeon",
+        "definition": " to expand; to flourish",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "burgeon",
+        "user_input_definition": "to expand; to flourish"
+    },
+    {
+        "word": "burlesque",
+        "definition": " a ludicrous, mocking, lewd imitation",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "cacophony",
+        "definition": " harsh; sounding mixture of words, voices or sounds",
+        "sample_sentences": " The parade's two marching bands played simultaneously, the resulting cacophony drove many spectator to tears.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "cacophony",
+        "user_input_definition": "a harsh-sounding mixture of sonds"
+    },
+    {
+        "word": "cadence",
+        "definition": " rhythm; the rise and fall of sounds",
+        "sample_sentences": " We wished the tone of Irwin's words would have a more pleasing cadence but he spoke in a dull monotone.",
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": "what",
+        "user_input_definition": "odk"
+    },
+    {
+        "word": "cajole",
+        "definition": " to persuade someone to do something he or she doesn't want to do",
+        "sample_sentences": " I didn't want to give the speech, but he cajoled me into doing it by telling me what a good speaker il am.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "cajole",
+        "user_input_definition": "to make someone do someting taht they are unwilling to do"
+    },
+    {
+        "word": "callow",
+        "definition": " immature",
+        "sample_sentences": "The patient was alarmed by the callowness of the medical staff.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "callow",
+        "user_input_definition": "immature"
+    },
+    {
+        "word": "candor",
+        "definition": "truthfulness; sincere honesty",
+        "sample_sentences": " To show candor is to be candid, photos are candid because they cannot lie.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "capitalism",
+        "definition": "an economic system in which businesses are owned by private citizens (not by the government) and in which the resulting products and services are sold with relatively little govenrnment control",
+        "sample_sentences": "Capitalism stresses innovation, copetition and individualism.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "capitulate",
+        "definition": "to surrender; to give up or give in",
+        "sample_sentences": "They capitulated and went back to work.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "capricious",
+        "definition": "unpredictable; likely to change at any moment",
+        "sample_sentences": "The weather is often said to be capricious, one minute it's snowing; the next minute it's 30 degrees outside. A caprice is a whim",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "caricature",
+        "definition": "a portrait or description that is purposely distorted or exaggerated, often to prove some point about its subject",
+        "sample_sentences": "Khoa sat for a caricature at the end of the marathon, but wasn't pleased with the result: the portrait exaggerated his already dominant acne.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "caricature",
+        "user_input_definition": "an exaggerated portrait"
+    },
+    {
+        "word": "castigate",
+        "definition": "to criticize severely; to chastise",
+        "sample_sentences": "Jose's mother-in-law castigated him for forgetting to pick her up at the airport.",
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": "castigatte",
+        "user_input_definition": "to puunish"
+    },
+    {
+        "word": "catalyst",
+        "definition": "in chemistry, something that changes the rate of a chemical reaction without itself being changed; anyone or anything that makes something happen without being directly involved in it",
+        "sample_sentences": "When the mad scientist dropped a few grains of the catalyst into his test tube, the bubbling liquid began to boil furiously.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "catalyst",
+        "user_input_definition": "somethhing that causes a reaction without being directly involved in it"
+    },
+    {
+        "word": "categorical",
+        "definition": "unconditionsl; absolute",
+        "sample_sentences": " A categorical denial is one without exceptions - it covers every category.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "catharsis",
+        "definition": "purification that brings emotional relief or renewal",
+        "sample_sentences": " To someone with psychological problems, talking to a psychiatrist can lead to a catharsis. A catharsis is a sometimes traumatic event after which one feels better.",
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "catholic",
+        "definition": "universal; embracing everthing",
+        "sample_sentences": "Da Vinci was a catholic genius who excelled at everything he did.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "parochial",
+        "definition": " narrow-minded; almost opposite of catholic",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "caustic",
+        "definition": "like acid; corrosive",
+        "sample_sentences": "Paint remover is a caustic substance; if you spill it on your skin, your skin will burn.",
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "caustic",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "celibacy",
+        "definition": "abstinence from sex",
+        "sample_sentences": "People who practice celibacy don't practice sex. Celibacy is one of the requirements for Catholic priesthood.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "censure",
+        "definition": "to condemn severely for doing something bad",
+        "sample_sentences": "The senate sometimes censures senators for breaking laws of engaging in behavior unbecoming to an elected official.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "cerebral",
+        "definition": "brainy; intellectually refined",
+        "sample_sentences": "Your cerebrum is the biggest part of your brain. To be cerebral is to do and care about things that really smart people do and care about.",
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "cerebral",
+        "user_input_definition": "relating to the brain"
+    },
+    {
+        "word": "chagrin",
+        "definition": "humiliation; embarrassed disappointment",
+        "sample_sentences": "Much to my chagrin, i began to giggle during the eulogy at the funeral.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "charisma",
+        "definition": "a magical-seeming ability to attract followers or inspire loyalty",
+        "sample_sentences": "The glamorous presidential candidate had a lot of charisma; voters didn't seem to support her so much as be entranced by her.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "charlatan",
+        "definition": "fraud; quack; con man",
+        "sample_sentences": "Buck was selling what he claimed was a cure for cancer, but he was just a charlatan (the pills were jelly beans.",
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "chasm",
+        "definition": "a deep, gaping hole; a gorge",
+        "sample_sentences": "Mark was so stupid that his girlfriend wondered whether there wasn't a chasm where his brain should be.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "chasm",
+        "user_input_definition": "a deep gorge"
+    },
+    {
+        "word": "chastise",
+        "definition": "to inflict punishment on; to discipline",
+        "sample_sentences": "Mother chastised us for firing our botttle rockets to close to the house.",
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "chicaner",
+        "definition": "trickery; deceitfulness artifice, especiall legal or political",
+        "sample_sentences": "Political news would be dull were it not for the chicanery of our elected officials.",
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "chimera",
+        "definition": "an illusion a foolish fancy",
+        "sample_sentences": "Jie's dream of becoming a movie star was just a chimera.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "choleric",
+        "definition": "hot-tempered; quick to anger",
+        "sample_sentences": "The choleric watchdog would sink his teeth into anyone who came within biting distance of his doghouse.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "choleric",
+        "user_input_definition": "hot-tempered"
+    },
+    {
+        "word": "chronic",
+        "definition": "constant; lasting a long time; ineterate",
+        "sample_sentences": "DJ's chronic back pains often kept her from soccer practice.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "chronic",
+        "user_input_definition": "lasting a long time"
+    },
+    {
+        "word": "chronicle",
+        "definition": "a record of events in order of time; a history",
+        "sample_sentences": "Sally's diary provided her mother with a detailed chronicle of her daughter's extracurricular activities.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "chronicle",
+        "user_input_definition": "a record of events in tthe order of time"
+    },
+    {
+        "word": "circuitous",
+        "definition": "roundabout; not following a direct path",
+        "sample_sentences": "The circuitous bbus rout betweeen the two cities went here, there and everywhere, and it took an extremely long time to get anywhere.",
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": "what",
+        "user_input_definition": "not following a direct route"
+    },
+    {
+        "word": "circumlocution",
+        "definition": "an indirect expression; use of wordy or evasive language",
+        "sample_sentences": "The lawyer's circumlocution left everyone in the courtroom wondering what had been said.",
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "circumscribe",
+        "definition": "to draw a line around; to set the limits; to define; to restrict",
+        "sample_sentences": "The Constitution clearly circumscribes the restrictions that can be placed on our personal freedoms.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "circumspect",
+        "definition": "cautious",
+        "sample_sentences": "As a public speaker, Nick was extremely circumspect; he always took great care not to say the wrong thing or give offense",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "circumvent",
+        "definition": "to frustrate as though by surrounding",
+        "sample_sentences": "Our hopes for an early end of the meeting were circumvented by the chariperson's refusal to deal with the items on the agenda.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "civil",
+        "definition": "polite; civilized; courteous",
+        "sample_sentences": "Our dinner guests conducted themselves civilly when we told them we weren't going to serve them dinner after all. They didn't bang their cups on the table or throw their plates to the floor.",
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "civil",
+        "user_input_definition": "of the ppl"
+    },
+    {
+        "word": "clemency",
+        "definition": "mercy; forgiveness; mildness",
+        "sample_sentences": "The governor committed an act of clemency when he released all the civicts from the stae penitentiary.",
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": "clemecy",
+        "user_input_definition": "mecru"
+    },
+    {
+        "word": "cliche",
+        "definition": "an overused saying or idea",
+        "sample_sentences": "The expression \"\"you don't judge a book by its cover\"\" is a cliche; it's been used so many times that it's become stale.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "cliche",
+        "user_input_definition": "an overused saying"
+    },
+    {
+        "word": "clique",
+        "definition": "an exclusive group bound together by some shared quality or interest",
+        "sample_sentences": "The high school newspaper staff was a real clique; they all hung out together and wouldn't talk to anyone else. It was hard to have fun at that school if you weren't a member of the right clique. The cheerleaders were cliquish as well.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "coalesce",
+        "definition": "to come together as one; to fuse; to unite",
+        "sample_sentences": "When the dough coalesced into a big blob, we began to wonder whether the cookies would be eidible.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "coerce",
+        "definition": "to force someone to do or not to do something",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "coerce",
+        "user_input_definition": "to persuade"
+    },
+    {
+        "word": "cogent",
+        "definition": "powerfully convincing",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "cognitive",
+        "definition": "dealing with how we know the world aroud us through our senses; mental",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "coherent",
+        "definition": "holding together; making sense",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "colloquial",
+        "definition": "conversational; informal in language",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "collusion",
+        "definition": "conspiracy; secret cooperation",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "collusion",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "commensurate",
+        "definition": "equal; proportionate",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "commensurate",
+        "user_input_definition": "proportionate; equal"
+    },
+    {
+        "word": "compelling",
+        "definition": "forceful; causing to yield",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "compelling",
+        "user_input_definition": "convincing"
+    },
+    {
+        "word": "compendium",
+        "definition": " a summary; an abridgment",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "complacement",
+        "definition": "self-satisfied; overly pleased with onself; contented to a fault",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "complacement",
+        "user_input_definition": "the perfect counterpart"
+    },
+    {
+        "word": "complement",
+        "definition": "to complete or fill up; to be the perfect counterpart",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "complicity",
+        "definition": "participation in wrongdoing; the act of being an accomplice",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "comprehensive",
+        "definition": "covering or including everything",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "comprise",
+        "definition": "to consist of",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "comprise",
+        "user_input_definition": "to consist of"
+    },
+    {
+        "word": "conciliatory",
+        "definition": "making peace; attempting to resolve a dispute through goodwill",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "conciliatory",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "concise",
+        "definition": "brief and to the point; succinct",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "concord",
+        "definition": "harmony; agreement",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "concord",
+        "user_input_definition": "harmony"
+    },
+    {
+        "word": "concurrent",
+        "definition": "happening at the same time; parallel",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "concurrent",
+        "user_input_definition": "parallel; happening at the same time"
+    },
+    {
+        "word": "condescend",
+        "definition": "to stoop to someone else's level, usually in an offensive way; to patronize",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "condescend",
+        "user_input_definition": "to patronize"
+    },
+    {
+        "word": "condone",
+        "definition": "to overlook; to permit to happen",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "condone",
+        "user_input_definition": "to overlook"
+    },
+    {
+        "word": "conducive",
+        "definition": "promoting",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "conducive",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "confluence",
+        "definition": "a flowing together, especially of rivers; the place where they begin to flow together",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "congenial",
+        "definition": "agreeably suitable; pleasant",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "congenital",
+        "definition": "describing a trait or condition acquired between conception and birth; innate",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "congregate",
+        "definition": "to come together",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "conjecture",
+        "definition": "to guess; to deduce or infer on slight evidence",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "conjecture",
+        "user_input_definition": "assumption"
+    },
+    {
+        "word": "conjure",
+        "definition": "to summon or bring into being as if by magic",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": "contrue",
+        "user_input_definition": "ik"
+    },
+    {
+        "word": "connoisseur",
+        "definition": "an expert, particularly in matters of art or taste",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "consecrate",
+        "definition": "to make or declare sacred",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "consensus",
+        "definition": "unanimity or general agreement",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "consonate",
+        "definition": "harmonious; in agreement",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "construe",
+        "definition": "to interpret",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "consummate",
+        "definition": "perfect; complete; supremely skillful",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "contentious",
+        "definition": "argumentative; quarrelsome",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "contiguous",
+        "definition": "side by side; adjoining",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "contingent",
+        "definition": "dependent; possible",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "contrite",
+        "definition": "admitting guilt; especially feeling remorseful",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "contrived",
+        "definition": "artificial; labored",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "contrived",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "conventional",
+        "definition": "common; customary; unexceptional",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "convivial",
+        "definition": "fond of partying; festive",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "copious",
+        "definition": "abundant; plentiful",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "corollary",
+        "definition": "something that follows; a natural consequence",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "corroborate",
+        "definition": "to confirm; to back up with evidence",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "corroborate",
+        "user_input_definition": "to back up with evidence"
+    },
+    {
+        "word": "cosmopolitan",
+        "definition": "at home in many places or situations; internationally sophisticated",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "countenance",
+        "definition": "face; facial expression, especially an encouraging one",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "coup",
+        "definition": "a brilliant victory or accomplishment; the violent overthrouw of a government by a small internal group",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "coup",
+        "user_input_definition": "a violent overthhrow from within"
+    },
+    {
+        "word": "covenant",
+        "definition": "a solemn agreement; a contradict; a pledge",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "covert",
+        "definition": "secret; hidden",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": "covet",
+        "user_input_definition": "secretive"
+    },
+    {
+        "word": "covet",
+        "definition": "to wish for enviously",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "credulous",
+        "definition": "eager to believe; gullible",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "credulous",
+        "user_input_definition": "gullible"
+    },
+    {
+        "word": "criterion",
+        "definition": "standard; basis for judgement",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "cryptic",
+        "definition": "mysterious; mystifying",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "cryptic",
+        "user_input_definition": "hiding the main meaning"
+    },
+    {
+        "word": "culinary",
+        "definition": "relating to cooking or the kitchen",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "culminate",
+        "definition": "to climax; to reach full effect",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "culpable",
+        "definition": "deserving blame; guilty",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "culpable",
+        "user_input_definition": "guilty"
+    },
+    {
+        "word": "cursory",
+        "definition": "hasty; superficial",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "cursory",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "curtail",
+        "definition": "to shorten; to cut short",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "cynic",
+        "definition": "one who deeply distrusts human nature; one who believes humans are motivated only by selfishness",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "cynic",
+        "user_input_definition": "ppessimistic abt human nature"
+    },
+    {
+        "word": "daunt",
+        "definition": "to make fearful; to intimidate",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "dearth",
+        "definition": "lack; scarcity",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "debacle",
+        "definition": "violent breakdown; sudden overthrow; overwhelming defeat",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "debacle",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "debauchery",
+        "definition": "wild living; excessive intemperance",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "debilitate",
+        "definition": "to weaken; to cripple",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "debilitate",
+        "user_input_definition": "to suffer a debility"
+    },
+    {
+        "word": "decadent",
+        "definition": "decaying or decayed, especially in terms of morals",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "decimate",
+        "definition": "to kill or destroy a large part of",
+        "sample_sentences": null,
+        "check_spell": 0.0,
+        "check_definition": 1.0,
+        "user_input_spell": "decimatte",
+        "user_input_definition": "to destroy a large part of"
+    },
+    {
+        "word": "decorous",
+        "definition": "in good taste; orderly",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "deduce",
+        "definition": "to conclude from the evidence; to infer",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "defame",
+        "definition": "to libel or slander; to ruin the good name of",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "defame",
+        "user_input_definition": "to ruin someone's reputation"
+    },
+    {
+        "word": "deference",
+        "definition": "submission to another's will; respect; courtesy",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "deference",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "definitive",
+        "definition": "conclusive; providing the last word",
+        "sample_sentences": null,
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "definitive",
+        "user_input_definition": "conclusive"
+    },
+    {
+        "word": "degenerate",
+        "definition": "to break down; to deteriorate",
+        "sample_sentences": "The discussion quickly degenerated into an argument.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "derogatory",
+        "definition": "disapproving; degrading",
+        "sample_sentences": "He used some derogatory language to refer to the employee.",
+        "check_spell": 1.0,
+        "check_definition": 0.0,
+        "user_input_spell": "derogatory",
+        "user_input_definition": "rogue"
+    },
+    {
+        "word": "desiccate",
+        "definition": "to dry out",
+        "sample_sentences": "The hot wind desiccated the few grapes remaining on the vine; after a day or two, they looked like raisins.",
+        "check_spell": 0.0,
+        "check_definition": 0.0,
+        "user_input_spell": "dessicate",
+        "user_input_definition": "idk"
+    },
+    {
+        "word": "despondent",
+        "definition": "extremely depressed; full of despair",
+        "sample_sentences": "The cook became despondent when the wedding cake fell on the floor ten minutes before the reception.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "despot",
+        "definition": "an absolute ruler; an autocrat",
+        "sample_sentences": "Max was a despot; workers who disagreed with him were fired.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "destitute",
+        "definition": "extremely poor; utterly lacking",
+        "sample_sentences": "To be left destitute is to be left without money or property.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "desultory",
+        "definition": "without a plan or purpose; disconnected; random",
+        "sample_sentences": "She made a few desultory attempts to start a garden, but nothing came out of them.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "dextrous",
+        "definition": "skillful;adroit",
+        "sample_sentences": "He was determined not to sell his laptop on eBay; even the most dextrous negotiator could not sway her.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "dialectical",
+        "definition": "relating to discussions; relating to the rules and methods of reasoning; approaching truth in the middle of opposing extremes.",
+        "sample_sentences": "The game of Twenty Questions is dialectical, in that the participants attempt to narrow down a chosen object by asking a series of ever-more specific questions.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "dictum",
+        "definition": "an authoritative saying; an adage; a proverb",
+        "sample_sentences": "\"No pain, No gain\" is an example of a dictum.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "didactic",
+        "definition": "intended to teach; morally instructive; pedantic",
+        "sample_sentences": "The new novel is didactic; the author aims to instruct, not entertain.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "diffident",
+        "definition": "timid; lacking self-confidence",
+        "sample_sentences": "Diffident is the opposite of confident.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "digress",
+        "definition": "to stray from the main subject",
+        "sample_sentences": "Let me digress for a moment and explain what had happened previously.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "dilettante",
+        "definition": "someone with superficial knowledge of the arts; an amateur; a dabbler",
+        "sample_sentences": "She's a professional artist, not a dilettante.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "discern",
+        "definition": "to have insight; to see things clearly; to discriminate; to differentiate",
+        "sample_sentences": "We could just discern the house in the distance.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "discreet",
+        "definition": "prudent; judiciously reserved",
+        "sample_sentences": "To make discreet inquiries is to ask around without letting the whole world know you're doing it.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "discrete",
+        "definition": "unconnected; seperate;distinct",
+        "sample_sentences": "The twins were identical; but their personalities were discrete.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "discriminate",
+        "definition": "to notice or point out the difference between two or more things",
+        "sample_sentences": "When do babies learn to discriminate voices?",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "disdain",
+        "definition": "arrogant scorn; contempt; to dislike someone because you think they're unimportant",
+        "sample_sentences": "The millionaire looked upon the poor workers with evident disdain.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "disinterested",
+        "definition": "not taking sides; unbiased",
+        "sample_sentences": "To be uninterested is different than being disinterested; to be uninterested is to not care about something; but to be disinterested is to not take sides. A refree should be disinterested; not uninterested.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "disparage",
+        "definition": "to belittle; to say uncomplimentary things about someone; usually in a somewhat indirect way",
+        "sample_sentences": "I don't mean to disparage your achievements.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "disparate",
+        "definition": "different; unequal; incompatible",
+        "sample_sentences": "Our interests were disparate; she liked to play with dolls, and I liked to throw her dolls out the window.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "disseminate",
+        "definition": "to spread the seeds of something; to scatter; to make widely known",
+        "sample_sentences": "News is disseminated through the internet, the television, the radio and many other types of media.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "dissipate",
+        "definition": "to thin out, drift away, or dissolve; to cause to thin out, drift away, or dissolve; to waste or squander",
+        "sample_sentences": "The smoke dissipated as soon as we opened the windows.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "dissolution",
+        "definition": "the breaking up or dissolving of something into parts; disintegration",
+        "sample_sentences": "The dissolution of the empire was remarkably swift.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "distend",
+        "definition": "to swell; to extend a great deal ",
+        "sample_sentences": "A distended stomach is a sign of malnutrition.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "distinguish",
+        "definition": "to tell apart; to cause to stand out",
+        "sample_sentences": "It is important to distinguish fact from fiction.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "docile",
+        "definition": "easily taught; obedient; easy to handle",
+        "sample_sentences": "The baby racoons appeared docile at first, but they were almost impossible to control.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "doctrinaire",
+        "definition": "inflexibly committed to a doctrine or theory without regard to its practicality; dogmatic",
+        "sample_sentences": "A doctrinaire supporter of manned space flights to Pluto would be someone who supported such actions regardless to its practicality.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "dogmatic",
+        "definition": "assertive of unproven ideas; stubbornly claiming that something is beyond dispute ",
+        "sample_sentences": "A dogmatic person is someone who is convinced that they are right, and refuse to consider that other opinions might also be justified.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "domestic",
+        "definition": "having to do with household or family; not foreign",
+        "sample_sentences": "Cats and dogs are animals that have been domesticated.",
+        "check_spell": 1.0,
+        "check_definition": 1.0,
+        "user_input_spell": "domestic",
+        "user_input_definition": "of the household; not foreign"
+    },
+    {
+        "word": "dormant",
+        "definition": "inactive; as though asleep; asleep",
+        "sample_sentences": "Dormant volcanoes do not erupt.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "dubious",
+        "definition": "full of doubt; uncertain",
+        "sample_sentences": "These claims are dubious and aren't scientifically proven.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "duplicity",
+        "definition": "the act of being two faced;",
+        "sample_sentences": "Liars engage in duplicity all the time.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "ebullient",
+        "definition": "boiling; bubbling with excitement; exuberant",
+        "sample_sentences": "Cammie was ebullient when her fairy godmother said she could use one of her three wishes to wish for three more wishes.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "eccentric",
+        "definition": "not conventional; a little kooky; irregular",
+        "sample_sentences": "The eccentric inventor spent all her waking hours fiddling with what she said was a time machine, but it was actually just an old telephone booth.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "eclectic",
+        "definition": "choosing the best from many sources; drawn from many sources",
+        "sample_sentences": "The eclectic menu included dishes from many different countries.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "edify",
+        "definition": "to enlighten; to instruct, especially in moral or religious matters",
+        "sample_sentences": "We found the pastro's sermon on the importance of not eating beans to be most edifying.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "efface",
+        "definition": "to erase; to rub away the features of",
+        "sample_sentences": "The inscription on the tombstone had been effaced by centuries of weather.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "effusion",
+        "definition": "a pouring forth",
+        "sample_sentences": "The madman's writings consisted of a steady effusion of nonsense.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "egalitarian",
+        "definition": "believing in the social and economic equality of all people",
+        "sample_sentences": "People often lose interest in egalitarian measures when such measures interfere with their own interests.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "egocentric",
+        "definition": "selfish; believing that one is the center of everthing",
+        "sample_sentences": "Egocentric Lou never read the newspaper unless there was something in it about him.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "egregious",
+        "definition": "extremely bad; flagrant",
+        "sample_sentences": "The mother's egregious neglect was reponsible for her child's accidental cross-country ride on the fright train.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "elicit",
+        "definition": "to bring out; to call forth",
+        "sample_sentences": "The defendant tried to elicit the sympathy of the jury by appearing at the trial in a wheelchair, but the jury convicted her anyway.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "elliptical",
+        "definition": "oval; missing a word or words; obscure",
+        "sample_sentences": "The announcement from the State Department was purposely elliptical - the government didn't really want reporters to know what was going on.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "elusive",
+        "definition": "hard to pin down; evasive",
+        "sample_sentences": "The elusive criminal was next to impossible for the police to catch. (The criminal eluded the police.)",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "emigrate",
+        "definition": "to leave a country permanently; to expatriate",
+        "sample_sentences": "Pierre emigrated from France because he had grown tired of speaking French. Pierre became an emigre (EM uh gray)",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "eminent",
+        "definition": "well-known and respected; standing out from all others in quality or accomplishment; outstanding",
+        "sample_sentences": "The entire audience fell silent when the eminent musician walked onto the stage and picked up her banjo and bongo drums.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "empirical",
+        "definition": "relyng on experience or observation; not merely theoretical",
+        "sample_sentences": "The apple-dropping experiment gave the scientists empirical evidence that gravity exists.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "emulate",
+        "definition": "to strive to equal or excel, usually through imitation",
+        "sample_sentences": "To emulate someone is to try to be just as good as, or better than, him or her.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "encroach",
+        "definition": "to make gradual or stealthy inroads into; to trespass",
+        "sample_sentences": "As the city grew, it encroached on the countryside surrounding it.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "endemic",
+        "definition": "native; restricted to a particular region or era; indigenous",
+        "sample_sentences": "You won't find that kind of tree in California; it's endemic to our part of the country.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "enervate",
+        "definition": "to reduce the strength or energy of, especially to do so gradually",
+        "sample_sentences": "Sander felt enervated by his long ordeal and counldn't make himself get out of bed.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "enfranchise",
+        "definition": "to grant the privileges of citizenship, especially the right to vote",
+        "sample_sentences": "In the United States, citizens become enfranchised on their eighteenth birthdays. American women were not enfranchised until the adoption of the Nineteenth Amendment in 1920, which gave them the right to vote.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "engender",
+        "definition": "to bring into existence; to create; to cause",
+        "sample_sentences": "My winning lottery ticket engendered a great deal of envy among my co-workers; they all wished that they had won.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "enigma",
+        "definition": "a mystery",
+        "sample_sentences": " Ben is an enigma; he never does any homework but he always gets good grades.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "enormity",
+        "definition": "extreme evil; a hideous offense; immensity",
+        "sample_sentences": "Hitler's soldiers stormed through the village, committing one enormity after another.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "ephemeral",
+        "definition": "lasting a very short time",
+        "sample_sentences": "The tread on those used tires will probably turn out to be ephemeral.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "epigram",
+        "definition": "a brief and usually witty or satirical saying",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "epitome",
+        "definition": "a brief summary that captures the meaning of the whole; the perfect example of something; a paradigm",
+        "sample_sentences": "The first paragraph of the new novel is an epitome of the entire book; you can read it and understand what the author is trying to get across.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "equanimity",
+        "definition": "composure; calm",
+        "sample_sentences": "John's mother looked at the broken glass on the floor with equanimity; at least he didn't hurt himself when he knocked over the vase.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "equitable",
+        "definition": "fair",
+        "sample_sentences": "King Solomon's decision was certainly equitable; each mother would receive half the child.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "equivocal",
+        "definition": "ambiguous; intentionally confusing; capable of being interpreted in more than one way",
+        "sample_sentences": "Joe's response was equivocal; he couldn't tell whether he meant yes or no, which is precisely what Joe wanted.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "erudite",
+        "definition": "scholarly; deeply learned",
+        "sample_sentences": "The professor said such erudite things that none of us had the slightest idea of what he was saying.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "esoteric",
+        "definition": "hard to understand; understood by only a selectfew; peculiar",
+        "sample_sentences": "Chicken wrestling and underwater yodeling were just two of Earl's esoteric hobbies.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "espouse",
+        "definition": "to support; to advocate",
+        "sample_sentences": "Some cultures used to espouse polygamy, or marriage to more than one woman.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "ethereal",
+        "definition": "as light and insubstantial as a gas or ether",
+        "sample_sentences": "The ethereal music we heard turned out to be not angels plucking on their harps but the wind blowing through the slats of the metal awning.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "euphemism",
+        "definition": "a pleasant or inoffensive expression used in place of an unpleasant or offensive one",
+        "sample_sentences": "The sex-education instructor wasn't very effective. She was so embarrassed by the subject that she could only bring herself to speak euphemistically about it.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "evanescent",
+        "definition": "fleeting; vanishing; happening for only the briefest period",
+        "sample_sentences": "Meteors are evanescent: they last so briefly that it is hard to tell whether one has actually appeared.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "exacerbate",
+        "definition": "to make worse",
+        "sample_sentences": "Dipping Austin in lye exacerbated his skin condition.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "exacting",
+        "definition": "extremely demanding; difficult; requiring great skill or care",
+        "sample_sentences": "The exacting math teacher subtracted points if you didn't show every step of your work.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "exalt",
+        "definition": "to raise high; to glrify",
+        "sample_sentences": "The manager decided to exalt the lowly batboy by asking him to throw the first pitch in the opening game of the World Seires.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "exasperate",
+        "definition": "to annoy thoroughly; to make very angry; to try the patience of",
+        "sample_sentences": "The child's insistence on hopping backward on one foot exasperated her mother, who was in a hurry.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "exemplify",
+        "definition": "to illustrate by example; to serve as a good example",
+        "sample_sentences": "Fred participated in every class discussion and typed all of his papers. His teacher thought Fred exemplified the model student; Fred's classmates thought he was sycophantic.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "exhaustive",
+        "definition": "thorough; rigorous; complete; paninstaking",
+        "sample_sentences": "Before you use a parachute, you should examine it exhaustively for defects. Once you jump, your decision is irrevocable.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "exhort",
+        "definition": "to urge strongly; to give a serious warning to",
+        "sample_sentences": "The coach used her bullhorn to exhort us to try harder.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "exigency",
+        "definition": "an emergency; an urgency",
+        "sample_sentences": "An academic exigency: You haven't opened a book all term and the final is tomorrow morning.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "existential",
+        "definition": "having to do with existence; having to do with the body of thought called existentialism, which basically holds that human beings are responsible for their own actions",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "exonerate",
+        "definition": "to free completely from blame; to exculpate",
+        "sample_sentences": "The defendant, who had always claimed he wasn't guilty, expected to be exonerated by the testimony of his best friend.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "expatriate",
+        "definition": "to throw (someone) out of his or her native land; to move away from one's native land; to emigrate",
+        "sample_sentences": "Hugo was fed up with his native country, so he expatriated to America. In doing so, Hugo became an expatriate.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "expedient",
+        "definition": "providing an immediate advantage; serving one's immediate self_interest; practical",
+        "sample_sentences": "Because the basement had nearly filled with water, the plumber felt it would be expedient to clear out the drain.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "expedite",
+        "definition": "to speed up or ease the progress of",
+        "sample_sentences": "The post office expedited mail delivery by hiring more letter carriers.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "explicit",
+        "definition": "clearly and directly expressed",
+        "sample_sentences": "The sexually explicit movie received an X rating.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "extol",
+        "definition": "to praise highly; to laud",
+        "sample_sentences": "The millionaire extolled the citizen who returned her gold watch but the only reward was a heartfelt handshake.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "extraneous",
+        "definition": "nnessary; irrelevant; extra",
+        "sample_sentences": "Extra ice cream would never be extraneous, unless everyone had already eaten so much that no one wanted any more.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "extrapolate",
+        "definition": "to project or deduce from something known; to infer",
+        "sample_sentences": "George's estimates were extrapolated from last year's data; he simply took all the old numbers and doubled them.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "extricate",
+        "definition": "to free from difficulty",
+        "sample_sentences": "It took two and a half days to extricate the little girl from the abandoned well into which she had fallen.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "extrovert",
+        "definition": "an open, outgoing person; a person whose attention is focused on others rather than on himself or herself",
+        "sample_sentences": "Maria was quite an extrovert; she walked boldy into the roomful of strange adults and stuck up many friendly conversations.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "exult",
+        "definition": "to rejoice; to celebrate",
+        "sample_sentences": "The women's team exulted in its victory over the men's team at the badminton finals. They were exultant.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "fabrication",
+        "definition": "a lie; something made up",
+        "sample_sentences": "My story about being the prince of Wales was a fabrication. I'm really the king of Denmark.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "facetious",
+        "definition": "humorous; not serious clumsily humorous",
+        "sample_sentences": "David was sent to the principal's office for making a facetious remark about the intelligence of the French teacher.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "facile",
+        "definition": "fluent; skillful in a superficial way; easy",
+        "sample_sentences": "Paolo's poems were facile rather than truly accomplished; if you read them closely, you soon realized they were filled with cliches.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "faction",
+        "definition": "a group, usually a small part of a larger group, united around some cause; disagreement within an organization",
+        "sample_sentences": "The faculty was relatively happy, but there was a faction that called for higher pay.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "farcical",
+        "definition": "absurd; ludicrous",
+        "sample_sentences": "The serious play quickly turned farcical when the leading man's belt broke and his pants fell to his ankles.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "fastidious",
+        "definition": "meticulous; demanding; finicky",
+        "sample_sentences": "Mrs. O'Hara was a fasticious housekeeper; she cleaned up our crumbs almost before they hit the floor.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "fatalist",
+        "definition": "someone who believes that furture events are already determined and that humans are powerless to change them",
+        "sample_sentences": "The old man was a fatalist about his illness, believing there was no sense in worrying about something he could not control.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "fatuous",
+        "definition": "foolish; silly; idiotic",
+        "sample_sentences": "Pauline is so pretty that her suitors are often driven to fatuous acts of devotion. They are infactuated with her.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "fauna",
+        "definition": "animals",
+        "sample_sentences": "We saw little evidence of fauna on our walk through the woods. We did, however, see plenty of flora, or plants.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "fecund",
+        "definition": "fertile; productive",
+        "sample_sentences": "The fecund mother rabbit gave birth to hundreds and hundreds of little rabbits.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "felicity",
+        "definition": "happiness; skillfulness, especially at expressing things; adeptness",
+        "sample_sentences": "Love was not all felicity for Judy and Steve; they argued all the time. In fact their relationship was characterized by infelilcity.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "fervor",
+        "definition": "great warmth or earnestness; ardor; zeal",
+        "sample_sentences": "Avid baseball fans frequently display their fervor for the game by throwing food at bad players.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "fetter",
+        "definition": "to restrain; to hamper",
+        "sample_sentences": "In her pursuit of an Olympic gold meda, the runner was fettered by multiple injuries.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "fidelity",
+        "definition": "faithfulness; loyalty",
+        "sample_sentences": "The motto of the United States Marine Corps is semper fidelis, which is Latin for always loyal.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "figurative",
+        "definition": "based on figurs of speech; expressing something in terms usually used for something else; mataphorical",
+        "sample_sentences": "When the mayor said that the housing market had sprouted wings, she was speaking figuratively. The housing market hadn't really sprouted wings; it had merely risen so rapidly that it had almost seemed to fly.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "finesse",
+        "definition": "skillful maneuvering; subtlety; craftiness",
+        "sample_sentences": "The doctor sewed up the wound with finesse, making stitches so small one could scarcely see them.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "flagrant",
+        "definition": "glaringly bad; notorious; scandalous",
+        "sample_sentences": null,
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "flaunt",
+        "definition": "to show off; to display ostentatiously",
+        "sample_sentences": "The brand-new millionaire annoyed all his friends by driving around his old neighborhood to flaunt his new Rolls-Royce.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "flout",
+        "definition": "to disregards something out of disrespect",
+        "sample_sentences": "A driver flouts the traffic laws by driving  through red lights and knocking down pedestrains.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "foible",
+        "definition": "a minor character flaw",
+        "sample_sentences": "Patti's foibles included a tendency to prefer dogs to people.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "foment",
+        "definition": "to stir up; to instigate",
+        "sample_sentences": "The bad news from abroad fomented pessimism among professional investors.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "forbear",
+        "definition": "to refrain from; to abstain",
+        "sample_sentences": "Stephen told me I could become a millionaire if i joined him in his business, but his lack of integrity makes me nervous so I decided no forbear.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "forego",
+        "definition": "to do without; to forbear",
+        "sample_sentences": "We had some of the chocolate cake, some of the chocolate mousse, and some of the chocolate cream pie. But we were worried about our weight, so we decided to forego the chocolate-covered potato chips. That is, we forewent them.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "forsake",
+        "definition": "to abandon; to renounce; to relinquish",
+        "sample_sentences": "We urged Buddy to forsake his life with the alien beings and return to his job at the drugstore.",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    },
+    {
+        "word": "fortuitous",
+        "definition": "accidental; occurring by chance",
+        "sample_sentences": "The program's outcome was not the result of any plan but was entirely fortuitous",
+        "check_spell": null,
+        "check_definition": null,
+        "user_input_spell": null,
+        "user_input_definition": null
+    }
+]
